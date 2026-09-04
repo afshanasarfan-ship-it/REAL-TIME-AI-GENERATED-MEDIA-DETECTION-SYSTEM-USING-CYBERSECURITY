@@ -4,7 +4,7 @@ import psycopg2
 DB_CONFIG = {
     "dbname": "D5_detection_db",
     "user": "postgres",
-    "password": "admin123",
+    "password": "      ",
     "host": "localhost",
     "port": "5432"
 }
